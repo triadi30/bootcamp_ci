@@ -8,8 +8,8 @@
   </head>
   <body>
     <?php 
-    $nama = ["Ahmad", "Ikrom", "Rudi", "Zein", "Yudi"];
-    $nilai = [90,50,70,77, 20];
+    $nama = ["Ahmad", "Ikrom", "Rudi", "Zein", "Yudi", "Riki"];
+    $nilai = [90,50,70,77,20,88];
     ?>
 
     <table class="table w-50 m-auto">
